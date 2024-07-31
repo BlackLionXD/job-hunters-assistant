@@ -1,0 +1,5 @@
+
+# installing necessary pacakges in env
+gradio
+ibm-watson-machine-learning
+email-validator
