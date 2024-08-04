@@ -1,5 +1,5 @@
-# job-hunters-assistant
-A smart app that helps you find and get jobs. It improves resumes, writes cover letters, and gives career advice. Built with Llama-2-70-b-chat, IBM's watson x.ai, and Gradio using Python.
+# upwork-proposal-generator
+A smart app that helps you generate professional UpWork proposal. Built with llama-2-13b-chat, IBM's watson x.ai, and Gradio using Python. 
 
 # Screenshot
 ![screenshot](screenshot.png)
